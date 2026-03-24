@@ -15,7 +15,7 @@ Estudante focado em tecnologia, com interesse em desenvolvimento web, sistemas e
 
 - HTML, CSS, JavaScript
 - Git & GitHub
-- Ambientes Linux
+- Ambientes Linux/Windows
 - Ferramentas de desenvolvimento e edição de código
 
 ## Objetivo
