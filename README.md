@@ -1,20 +1,22 @@
 # Lucas Domingos
 
-Estudante focado em tecnologia e desenvolvimento, com interesse em **desenvolvimento web, sistemas e segurança cibernética**. Possui perfil prático, orientado a soluções diretas e eficiência.
+## Quem eu sou
 
-## Sobre mim
+Estudante focado em tecnologia, com interesse em desenvolvimento web, sistemas e segurança cibernética. Tenho perfil prático, voltado para soluções diretas e eficiência, com aprendizado contínuo por meio de estudo autodidata e prática.
 
-- Forte interesse em **hardware e software**
-- Aprendizado contínuo por meio de cursos online e prática
-- Experiência com ajustes e otimização de dispositivos
-- Acompanho tendências em tecnologia, jogos e mercados digitais
+## No que estou trabalhando agora
 
-## Pontos fortes
+- Desenvolvimento de projetos em web
+- Aprimoramento de lógica de programação
+- Estudos em sistemas e segurança
+- Exploração prática de ferramentas e tecnologias
 
-- Pensamento lógico
-- Autonomia para aprender
-- Resolução de problemas técnicos
-- Busca constante por melhoria
+## Ferramentas
+
+- HTML, CSS, JavaScript
+- Git & GitHub
+- Ambientes Linux
+- Ferramentas de desenvolvimento e edição de código
 
 ## Objetivo
 
